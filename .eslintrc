@@ -1,0 +1,15 @@
+rules:
+  eqeqeq: off
+  curly: error
+  quotes:
+    - error
+    - single
+  semi:
+    - error
+    - never
+  array-element-newline:
+    - error
+    - never
+  max-len:
+    - error
+    - code: 999999
