@@ -1,0 +1,4 @@
+# ESLint
+node_modules/
+*.log
+.eslintcache
